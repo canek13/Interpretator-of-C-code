@@ -10,7 +10,6 @@
 #include <algorithm>
 using namespace std;
 
-int xren = 0;
 enum type_of_lex {
 		LEX_NULL, // 0
 		LEX_AND, LEX_BEGIN, LEX_BOOL, LEX_BREAK, LEX_DO, LEX_ELSE, LEX_FOR,// 7
