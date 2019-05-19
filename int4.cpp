@@ -9,11 +9,7 @@
 #include <stack>
 #include <algorithm>
 using namespace std;
-/*
-	добавлены break, for, struct
 
-	
-*/
 int xren = 0;
 enum type_of_lex {
 		LEX_NULL, // 0
